@@ -1,0 +1,196 @@
+#class0
+{
+    width: 100%;
+    height:800vh;
+}
+
+
+#class1{
+    width:100%;
+    height:100px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    font-size:xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#class2{
+    width: 100%;
+    height: 100px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 325px;
+    padding-right: 325px;
+    
+}
+
+#class3{
+    width:100%;
+    height: 500px;
+
+    display: flex;
+}
+#class4{
+    width:100%;
+    height: 400px;
+}
+#para
+{
+    font-size: 30px;
+    width: 80%;
+    height: 50px;
+    border-bottom: 2px solid black;
+    margin-left: 100px;
+}
+#para1
+{
+    font-size: 30px;
+    width: 80%;
+    height: 50px;
+    border-bottom: 2px solid black;
+    margin-left: 100px;
+}
+#class5{
+    width:100%;
+    height: 200px;
+}
+#class6{
+    width:100%;
+    height: 300px;
+}
+#class7{
+    width:100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    margin-left: 100px;
+}
+#class8{
+    width:100%;
+    height: 230px;
+    display: flex;
+    font-size: 20px;
+    margin-left: 100px;
+    flex-wrap: wrap;
+    flex:content;
+    border: 2px solid black;
+}
+#class9{
+    width:120px;
+    height:40px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+#class10{
+    width:180px;
+    height:40px;
+    
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+#class11{
+    width:100%;
+    height: 500px;
+    
+}
+#class12{
+    width:100%;
+    height: 430px;
+    display: flex;
+    font-size: 20px;
+    margin-left: 100px;
+    flex-wrap: wrap;
+    flex:content;
+    border: 2px solid black;
+}
+#class13{
+    width:200px;
+    height:40px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+#class14{
+    width:100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    margin-left: 100px;
+
+    display:flex;
+    align-items: center;
+}
+#class16
+{
+    width: 100%;
+    height: 2500px;
+    margin-left: 100px;
+    
+    overflow-y: scroll;
+}
+#class17
+{
+    
+    height: 700px;
+    
+    border: 2px solid black;
+    display:flex;
+}
+
+#class18
+{
+    
+    width: 100%;
+
+    height:100px;
+    display:flex;
+    align-items: center;
+}
+#class19
+{
+    
+    width: 100%;
+
+    height:100px;
+    display:flex;
+    align-items: center;
+}
+#class20
+{
+    
+    width: 100%;
+    
+    height:80px;
+    display:flex;
+    align-items: center;
+}
+#class21
+{
+    
+    width: 100%;
+
+    height:300px;
+    display:flex;
+    align-items: center;
+}
+#class22
+{
+    
+    width: 100%;
+    
+    height:120px;
+    display:flex;
+    align-items: center;
+}
